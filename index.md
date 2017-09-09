@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 欢迎来到 Vigor-AI|万古深度
 
-You can use the [editor on GitHub](https://github.com/Vigor-AI/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+让科技为企业变革服务
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 服务领域
 
-### Markdown
+- 提供深度学习在对象识别、大数据处理的应用和最先进算法的落地
+- 提供传统的企业\机构网络服务和咨询
+- 提供公众号\小程序等新兴自媒体的创建服务和咨询
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目经验
 
-```markdown
-Syntax highlighted code block
+#### 快速人脸识别
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### 亚马逊雨林人迹识别
 
-1. Numbered
-2. List
+#### 百万吞吐量网站架构
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vigor-AI/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
